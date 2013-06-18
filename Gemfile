@@ -22,7 +22,7 @@ gem 'decent_exposure'
 gem 'will_paginate', "~> 3.0.pre2"
 gem 'pdfkit'
 
-gem 'web-app-theme', '~> 0.8.0'
+#gem 'web-app-theme', '~> 0.8.0'
 
 # Easily include static pages in your Rails app (like About us and other)
 # gem 'high_voltage'
